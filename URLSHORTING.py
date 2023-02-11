@@ -2,7 +2,7 @@ import requests
 
 api_key = "520a231aa2ec5caa926492e1b336e89ca9ea1"
 # the URL you want to shorten
-url = "https://www.thepythoncode.com/topic/using-apis-in-python"
+url = "any url you want to short put here"
 # preferred name in the URL
 api_url = f"https://cutt.ly/api/api.php?key={api_key}&short={url}"
 # or
